@@ -1,1 +1,3 @@
-# SoCalCodeCamp
+# SoCal Code Camp presentaion
+## Introduction To Functional programming with JavaScript
+#### I want to take you along my learning journey of functional programming with JavaScript and share what learned which I hope encourage you to dive deeper knowledge of functional programming. As an object-oriented programmer I found it difficult to understand functional programming or answering questions such as what is functional programming? Why functional programming? What are the advantages of functional programming? When do we use functional or object-oriented programming? During my talk, I will go over the terms like immutability, pure functional, and Higher-order functions.
